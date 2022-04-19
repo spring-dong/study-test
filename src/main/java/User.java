@@ -11,7 +11,7 @@ public class User {
     private String name;
 
     public String getName() {
-        return name;    ttttt
+        return name;
     }
 
     public void setName(String name) {
